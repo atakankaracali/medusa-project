@@ -1,32 +1,37 @@
 # medusa-project
 Medusa Framework + Typescrpit + NextJS Basic Store Application
-
+-----------------------------------------
 This project have of 2 folders
 
 Medusa backend + admin portal
 Next.js Frontend Part
-
+-----------------------------------------
 To run this application you will need
-
+-----------------------------------------
 node >= 16.x.x installed
 docker desktop
 git
-
+-----------------------------------------
 ** Use -> PostgreSQL **
-
+-----------------------------------------
 Run ->
 git clone https://github.com/atakankaracali/medusa-project.git
+-----------------------------------------
 Open -> Docker Desktop
+-----------------------------------------
 run -> docker-compose up --build -d
+-----------------------------------------
 open new terminal and run -> cd backendmedusa 
 and run -> yarn
+-----------------------------------------
 open new terminal and run -> cd storefrontendmedusa 
 and run -> yarn
-
+-----------------------------------------
 after than backend terminal run -> yarn dev
 frontend terminal run -> yarn dev
-
+-----------------------------------------
 Backend localhost adress: localhost:7001
+-----------------------------------------
 Store localhost adress: localhost:8000
 
 EXAPMLE PHOTOS
